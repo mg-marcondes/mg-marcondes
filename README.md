@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Miguel+%F0%9F%91%8B;Desenvolvedor+Full-Stack;S%C3%B3cio+%40Neenk;Ex-atleta+profissional+de+Valorant+%F0%9F%8E%AE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Miguel+%F0%9F%91%8B;Full-Stack+Developer;Co-founder+%2F+CEO+%40Neenk;Former+Professional+Esports+Athlete+%F0%9F%8E%AE" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,16 +13,16 @@
 
 <br/>
 
-### 💡 Sobre mim
+### 💡 About me
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na UniCesumar
-- 💻 Desenvolvedor full-stack, construindo com **JavaScript, TypeScript, React, Next.js e Node.js**
-- 🤝 Sócio da **[Neenk](https://neenk.com.br)** — SaaS de gestão para estúdios e tatuadores
-- 🎮 Ex-atleta profissional de Valorant (~6 anos) — Campeão LATAM, Campeão e MVP do Challengers México
-- 🌎 2 anos morando fora do Brasil (México, Chile e Argentina) representando equipes internacionais · espanhol fluente · inglês avançado
-- 📍 Poços de Caldas, MG — Brasil
+- 🎓 Finishing my degree in **Software Analysis and Development (ADS)** at UniCesumar
+- 💻 Full-stack developer, building with **JavaScript, TypeScript, React, Next.js and Node.js**
+- 🚀 Co-founder & CEO of **[Neenk](https://neenk.com.br)** — a SaaS management platform for tattoo studios and artists
+- 🎮 Former Professional Esports Athlete (~6 years) — LATAM Champion, Challengers Mexico Champion & MVP
+- 🌎 2 years living abroad (Mexico, Chile and Argentina) competing internationally · fluent in Spanish · advanced English
+- 📍 Poços de Caldas, MG — Brazil
 
-> A carreira no esports profissional me ensinou liderança, comunicação, trabalho em equipe e decisão sob pressão em alto nível. Hoje uso isso pra construir produtos e empresas de tecnologia.
+> My esports career built my ability to perform under pressure, communicate across cultures, and commit fully to long-term goals. I bring that same consistency and competitive drive into building software and products today.
 
 <br/>
 
@@ -54,8 +54,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mg-marcondes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Estatísticas do GitHub"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mg-marcondes&layout=compact&theme=tokyonight&hide_border=true" width="38%" alt="Linguagens mais usadas"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mg-marcondes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mg-marcondes&layout=compact&theme=tokyonight&hide_border=true" width="38%" alt="Most used languages"/>
 
 <img src="https://streak-stats.demolab.com?user=mg-marcondes&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak"/>
 
@@ -63,20 +63,29 @@
 
 <br/>
 
-### 🚀 Projetos em destaque
+### 🐝 Neenk — Co-founder & CEO
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| 💈 **[Neenk](https://neenk.com.br)** | SaaS de gestão para estúdios de tatuagem — agenda, clientes, comissões, contratos digitais e WhatsApp integrado | Ruby on Rails, Stripe, AWS |
-| 🥋 `controle-alunos` *(privado)* | Sistema de controle de frequência de alunos para academia de judô | TypeScript, React |
-| 🧳 **[gps-viagem-amsterdam-paris](https://github.com/mg-marcondes/gps-viagem-amsterdam-paris)** | Roteiro/GPS interativo para viagem Amsterdã → Paris | JavaScript |
-| 📄 **[curriculo](https://github.com/mg-marcondes/curriculo)** | Meu currículo em HTML | HTML |
+**[Neenk](https://neenk.com.br)** is a SaaS management platform built for tattoo studios and artists — scheduling, clients, commissions, digital contracts, portfolio, and WhatsApp automation powered by AI, connected from first contact to closed deal.
+
+I lead product strategy and business development, while staying closely involved in key technical decisions: our **Ruby on Rails** backend, **WhatsApp API** integration, **Stripe** payment processing, database design, and **AWS** cloud infrastructure — working alongside the engineering team to ship features end to end.
+
+`Ruby on Rails` · `WhatsApp API` · `Stripe` · `AWS` · `PostgreSQL`
 
 <br/>
 
-### 📫 Contato
+### 📂 Other projects
 
-Aberto a conversas sobre oportunidades como desenvolvedor, parcerias ou os projetos acima.
+| Project | Description | Stack |
+|---|---|---|
+| 🥋 `controle-alunos` *(private)* | Student attendance tracking system for a judo academy | TypeScript, React |
+| 🧳 **[gps-viagem-amsterdam-paris](https://github.com/mg-marcondes/gps-viagem-amsterdam-paris)** | Interactive GPS/itinerary app for an Amsterdam → Paris trip | JavaScript |
+| 📄 **[curriculo](https://github.com/mg-marcondes/curriculo)** | My résumé, built in HTML | HTML |
+
+<br/>
+
+### 📫 Contact
+
+Open to conversations about developer opportunities, partnerships, or the projects above.
 
 [![Gmail](https://img.shields.io/badge/-miguel.marcondes2@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:miguel.marcondes2@gmail.com)
 
